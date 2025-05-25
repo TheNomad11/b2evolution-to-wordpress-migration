@@ -1,2 +1,4 @@
 # b2evolution to Wordpress Migration
-How to migrate from b2evolution to Wordpress step by step
+How to migrate from b2evolution to Wordpress step by step. 
+
+I migrated successfully with the help by Chatgpt as no migration scripts were available. It took many hours and lots of corrections, testing, corrections. In the end I had many corrected scripts, many versions, here are the updated and corrected versions (I hope at least). Let me know if you have any issues!
